@@ -1,0 +1,7 @@
+1.0 - Resolve o problema, mas com subrotas. O programa consegue identificar somente uma subrota e finaliza.
+2.0 - Resolve o problema e consegue colocar restrições para todas as subrotas.(Não foi testado ainda se funciona com mais pontos do que 5).
+3.0 - Recebe o número de pontos com suas localizações em latitude e longitude, converte para distância e resolve o problema conforme a versão 2.0.
+4.0: Programa que lê a matriz das distancias (ou outra grandeza a ser minimizada) inseridas num arquivo txt (importante estar na mesma pasta do programa) e calcula a rota ótima a ser executada, junto com seu valor ótimo. 
+É importante que o arquivo txt esteja configurado com apenas 1 espaço entre os valores da matriz.
+4.1: Programa que lê a matriz das coordenadas geográficas dos pontos,  inseridas num arquivo txt (importante estar na mesma pasta do programa) e calcula a distancia entre os pontos, a rota ótima a ser executada,e seu valor ótimo. 
+É importante que o arquivo txt esteja configurado com apenas 1 espaço entre os valores da matriz.
